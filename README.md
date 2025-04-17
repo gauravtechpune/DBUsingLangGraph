@@ -1,1 +1,1 @@
-T
+A full-stack conversational assistant that enables users to query a PostgreSQL database using natural language. It features a LangGraph and LangChain-powered backend, paired with a custom-built, responsive chat interface on the frontend."
